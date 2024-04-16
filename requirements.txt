@@ -1,0 +1,5 @@
+keyboard==0.13.5
+pyyaml==6.0.1
+open3d==0.18.0
+opencv-python==4.9.0.80
+dbscan==0.0.12
